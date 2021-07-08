@@ -14,7 +14,7 @@ if __name__ == '__main__':
         print("Use >>> python3 main.py 0")
         print("To get the Top 100 of all genres into the directory HOME/MusicCharts")
         print()
-        print("Use python3 main.py GENRE_ID")
+        print("Use >>> python3 main.py GENRE_ID")
         print("To get the Top 100 of a specific GENRE_ID into the directory HOME/MusicCharts")
         print("example: >>> python3 main.py 1")
         print("DRUM_AND_BASS = 1 | HARD_TECHNO = 2 | ELECTRONICA = 3\n"
