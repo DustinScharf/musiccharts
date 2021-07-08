@@ -17,14 +17,7 @@ if __name__ == '__main__':
         print("Use >>> python3 main.py GENRE_ID")
         print("To get the Top 100 of a specific GENRE_ID into the directory HOME/MusicCharts")
         print("example: >>> python3 main.py 1")
-        print("DRUM_AND_BASS = 1 | HARD_TECHNO = 2 | ELECTRONICA = 3\n"
-              "\n"
-              "HOUSE = 5 | TECHNO = 6 | TRANCE = 7\n"
-              "HARD_DANCE_AND_HARDCODE = 8\n"
-              "BREAKS_AND_BREAKBEAT_AND_UK_BASS = 9\n"
-              "\n"
-              "TECH_HOUSE = 11 | DEEP_HOUSE = 12 | PSY_TRANCE = 13 | MINIMAL_AND_DEEP_TECH = 14\n"
-              "PROGRESSIVE_HOUSE = 15 | DJ_TOOLS = 16 | # ELECTRO_HOUSE = 17 | DUBSTEP = 18")
+        print("View all genre ids on https://github.com/DustinScharf/musiccharts (README.md)")
         print()
         print("Any other syntax causes this error")
         exit(1)

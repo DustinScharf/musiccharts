@@ -97,7 +97,9 @@ class MusicCharts(object):
 class GenreNotExistsError(Exception):
     def __init__(self, genre_id: int = None):
         if genre_id is None:
-            self.message = 'The requested genre_id does not exist'
+            self.message = 'The requested genre_id does not exist ' \
+                           '(view genres at https://github.com/DustinScharf/musiccharts (README.md))'
         else:
-            self.message = f'The requested genre_id {genre_id} does not exist'
+            self.message = f'The requested genre_id {genre_id} does not exist ' \
+                           f'(view genres at https://github.com/DustinScharf/musiccharts (README.md))'
         super().__init__(self.message)
