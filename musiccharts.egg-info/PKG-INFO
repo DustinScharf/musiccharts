@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: musiccharts
+Version: 0.0.1
+Summary: A small python script to scrap (electronic) music charts into directories with csv files.
+Home-page: https://github.com/DustinScharf/musiccharts
+Author: DustinScharf
+Author-email: d.scharf.2002@gmail.com
+License: MIT
+Keywords: music,charts,dj
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+UNKNOWN
+

@@ -1,0 +1,15 @@
+LICENSE
+README.md
+setup.py
+musiccharts/AutoString.py
+musiccharts/MusicCharts.py
+musiccharts/Track.py
+musiccharts/Tracklist.py
+musiccharts/__init__.py
+musiccharts/genres.py
+musiccharts/main.py
+musiccharts.egg-info/PKG-INFO
+musiccharts.egg-info/SOURCES.txt
+musiccharts.egg-info/dependency_links.txt
+musiccharts.egg-info/requires.txt
+musiccharts.egg-info/top_level.txt
