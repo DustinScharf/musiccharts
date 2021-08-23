@@ -2,12 +2,13 @@
 A small python script to scrap (electronic) music charts into directories with csv files.
 
 ## Installation
-Download the files and run the commands below in the directory with the downloaded files.
-<br />
-Or run the command `pip install git+https://github.com/DustinScharf/musiccharts` in your terminal.
+Run the command `pip install git+https://github.com/DustinScharf/musiccharts`
+in your terminal to download musiccharts into a directory of your choice.
 
 ## How to use musiccharts?
-Everything is safed into the directory HOME/MusicCharts  
+Everything is safed into the directory `HOME/MusicCharts`  
+
+Open a terminal in the directory you installed musiccharts to and use one of the following commands.
 
 Get TOP 100 of ALL GENRES: `python3 main.py 0`  
 Get TOP 100 of GENRE with GENRE_ID: `python3 main.py GENRE_ID`  
