@@ -32,8 +32,6 @@ class GUI(object):
         layout.addWidget(get_all_charts_button)
         get_all_charts_button.clicked.connect(self.get_all_charts)
 
-        layout.addWidget(QLabel("<br>"))
-
         layout.addWidget(QLabel("<b>Specific genre</b>"))
 
         genre_layout = QGridLayout()
