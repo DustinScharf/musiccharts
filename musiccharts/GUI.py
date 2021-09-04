@@ -1,7 +1,10 @@
+import os
+
 from PyQt5 import QtGui
 from PyQt5.QtWidgets import QApplication, QWidget, QVBoxLayout, QPushButton, QMessageBox, QLineEdit, QLabel, \
     QHBoxLayout, QGridLayout
 
+from musiccharts import Explorer
 from musiccharts.GenreButton import GenreButton
 from musiccharts.MusicCharts import MusicCharts
 
@@ -56,6 +59,12 @@ class GUI(object):
         DUBSTEP_button = GenreButton(genre_layout, 18, "Dubstep", 4, 2)
 
         layout.addLayout(genre_layout)
+
+        layout.addWidget(QLabel("<hr>"))
+
+        open_explorer_button = QPushButton("Open HOME/MusicCharts")
+        layout.addWidget(open_explorer_button)
+        open_explorer_button.clicked.connect(Explorer.explore)
 
         layout.addWidget(QLabel("<hr>"))
 
