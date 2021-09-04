@@ -18,8 +18,7 @@ class GUI(object):
         window = QWidget()
         # window.setWindowIcon(QtGui.QIcon("icon.ico"))
         window.setWindowTitle("MusicCharts")
-        window.setMinimumWidth(400)
-        window.setMinimumWidth(300)
+        window.setMinimumWidth(500)
 
         layout = QVBoxLayout()
 
