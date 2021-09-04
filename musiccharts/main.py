@@ -22,7 +22,6 @@ if __name__ == '__main__':
 
     if int(sys.argv[1]) == 999:
         gui = GUI()
-        exit(1)
     else:
         music_charts = MusicCharts()
         genre_id = int(sys.argv[1])
