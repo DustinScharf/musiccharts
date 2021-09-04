@@ -59,7 +59,7 @@ class GUI(object):
 
         layout.addWidget(QLabel("<hr>"))
 
-        layout.addWidget(QLabel("( The CSV files go into the directory <b>HOME/MusicCharts</b> )"))
+        layout.addWidget(QLabel("( The list will result in a CSV file into the directory <b>HOME/MusicCharts</b> )"))
 
         window.setLayout(layout)
         window.show()
