@@ -107,9 +107,9 @@ class Tracklist(object):
         if directory is None:
             directory = os.path.expanduser("~")
 
-            if not os.path.isdir(join(directory, "")):
-                os.mkdir(join(directory, ""))
-            directory = join(directory, "")
+            if not os.path.isdir(join(directory, "MusicCharts")):
+                os.mkdir(join(directory, "MusicCharts"))
+            directory = join(directory, "MusicCharts")
 
             if "top100" in self.title.replace(" ", "").lower():
                 if not os.path.isdir(join(directory, "Top 100")):
