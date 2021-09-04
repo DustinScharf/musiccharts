@@ -20,9 +20,11 @@ class GUI(object):
 
         layout = QVBoxLayout()
 
-        layout.addWidget(QLabel("Press the button to get the top 100 of all genres into CSV files"))
+        layout.addWidget(QLabel("<b><center>Scrap top chart lists</center></b>"))
 
-        get_all_charts_button = QPushButton("Get all top lists")
+        layout.addWidget(QLabel("<b>All genres</b>"))
+
+        get_all_charts_button = QPushButton("ALL GENRES")
         layout.addWidget(get_all_charts_button)
         get_all_charts_button.clicked.connect(self.get_all_charts)
 
