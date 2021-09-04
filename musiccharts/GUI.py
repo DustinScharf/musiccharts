@@ -62,13 +62,13 @@ class GUI(object):
 
         layout.addWidget(QLabel("<hr>"))
 
-        open_explorer_button = QPushButton("Open HOME/MusicCharts")
-        layout.addWidget(open_explorer_button)
-        open_explorer_button.clicked.connect(Explorer.explore)
+        layout.addWidget(QLabel("( The list will result in a CSV file into the directory <b>HOME/MusicCharts</b> )"))
 
         layout.addWidget(QLabel("<hr>"))
 
-        layout.addWidget(QLabel("( The list will result in a CSV file into the directory <b>HOME/MusicCharts</b> )"))
+        open_explorer_button = QPushButton("Open HOME/MusicCharts")
+        layout.addWidget(open_explorer_button)
+        open_explorer_button.clicked.connect(Explorer.explore)
 
         window.setLayout(layout)
         window.show()
