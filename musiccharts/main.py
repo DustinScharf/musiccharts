@@ -1,6 +1,7 @@
 import sys
 
 from musiccharts import genres
+from musiccharts.GUI import GUI
 from musiccharts.MusicCharts import MusicCharts
 
 if __name__ == '__main__':
@@ -21,13 +22,14 @@ if __name__ == '__main__':
 
     if int(sys.argv[1]) == 999:
         print("This is a placeholder for a (coming soon) GUI.")
+        gui = GUI()
         exit(1)
-
-    music_charts = MusicCharts()
-    genre_id = int(sys.argv[1])
-    if genre_id == 0:
-        music_charts.all_top_100_to_csv()
     else:
-        music_charts.top_100(genre_id).to_csv_file()
+        music_charts = MusicCharts()
+        genre_id = int(sys.argv[1])
+        if genre_id == 0:
+            music_charts.all_top_100_to_csv()
+        else:
+            music_charts.top_100(genre_id).to_csv_file()
 
-    print("CSV put into HOME/MusicCharts : DONE")
+        print("CSV put into HOME/MusicCharts : DONE")
