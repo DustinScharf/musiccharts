@@ -21,7 +21,6 @@ if __name__ == '__main__':
         exit(1)
 
     if int(sys.argv[1]) == 999:
-        print("This is a placeholder for a (coming soon) GUI.")
         gui = GUI()
         exit(1)
     else:
