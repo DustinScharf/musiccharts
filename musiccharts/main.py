@@ -19,6 +19,10 @@ if __name__ == '__main__':
         print("Any other syntax causes this error")
         exit(1)
 
+    if int(sys.argv[1]) == 999:
+        print("This is a placeholder for a (coming soon) GUI.")
+        exit(1)
+
     music_charts = MusicCharts()
     genre_id = int(sys.argv[1])
     if genre_id == 0:
