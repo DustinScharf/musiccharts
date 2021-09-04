@@ -6,6 +6,10 @@ Run the command `pip install git+https://github.com/DustinScharf/musiccharts`
 in your terminal to download musiccharts into a directory of your choice.
 
 ## How to use musiccharts?
+### GUI Mode
+Open a terminal in the directory you installed musiccharts to and type `python3 main.py 999`  
+
+### CLI Mode
 Everything is safed into the directory `HOME/MusicCharts`  
 
 Open a terminal in the directory you installed musiccharts to and use one of the following commands.
