@@ -9,6 +9,8 @@ in your terminal to download musiccharts into a directory of your choice.
 ### GUI Mode
 Open a terminal in the directory you installed musiccharts to and type `python3 main.py 999`  
 
+![This image shows the GUI of musiccharts](window.png "The GUI")
+
 ### CLI Mode
 Everything is safed into the directory `HOME/MusicCharts`  
 
