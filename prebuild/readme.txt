@@ -1,0 +1,1 @@
+This .exe contains the chart scrapper.
