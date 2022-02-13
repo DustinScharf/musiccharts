@@ -1,5 +1,5 @@
 # musiccharts
-A small python script to scrap (electronic) music charts into directories with csv files.
+Python script to scrap (electronic) music charts into directories with csv files.
 
 ### Installation
 1. Download [**MusicCharts**.exe](https://github.com/DustinScharf/musiccharts/releases/download/v1.0/MusicCharts.exe "Click to download")
