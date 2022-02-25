@@ -14,4 +14,4 @@ _*You can also load this repository into an IDE and start it from there (e. g. f
 ![This image shows the GUI of musiccharts](window.png "The GUI")
 
 Press any button and get a chart list (with the genre specified on the button) 
-into the directory `HOME/MusicCharts`
+into the directory `HOME/MusicCharts` as a csv file
