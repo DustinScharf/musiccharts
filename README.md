@@ -11,7 +11,7 @@ _*You can also load this repository into an IDE like PyCharm and start it from t
 
 ### Usage
 
-![This image shows the GUI of musiccharts](window.png "The GUI of musiccharts")
+![This image shows the GUI of musiccharts](window.png "GUI of musiccharts")
 
 Press any button and get a chart list (with the genre specified on the button) 
 into the directory `HOME/MusicCharts` as a csv file
