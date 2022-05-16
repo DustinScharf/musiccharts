@@ -15,3 +15,6 @@ _*You can also load this repository into an IDE like PyCharm and start it from t
 
 Press any button and get a chart list (with the genre specified on the button) 
 into the directory `HOME/MusicCharts` as a csv file
+
+### Does someone have a very basic spotify or tidal api for end-users with just username+passord login?
+Or is intresten in writing one in coop?
