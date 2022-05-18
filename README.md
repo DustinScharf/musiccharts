@@ -17,4 +17,4 @@ Press any button and get a chart list (with the genre specified on the button)
 into the directory `HOME/MusicCharts` as a csv file
 
 ### Does someone have a SPOTIFY-API or TIDAL-API with just username+passord login?
-Or is intresten in writing one in coop?
+Or is intrested in writing one in coop?
