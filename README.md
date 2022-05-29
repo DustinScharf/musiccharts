@@ -18,4 +18,4 @@ into the directory `HOME/MusicCharts` as a csv file
 
 ### Does someone have a TIDAL-API with search by track name function with just username+passord login?
 Or is intrested in writing one in coop?  
-In combination with this script, it would be amazing for DJs.
+In combination with this script, it would be an amazing for DJs.
