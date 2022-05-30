@@ -16,6 +16,6 @@ _*You can also load this repository into an IDE like PyCharm and start it from t
 Press any button and get a chart list (with the genre specified on the button) 
 into the directory `HOME/MusicCharts` as a csv file
 
-### Does someone have a TIDAL-API with search by track name function with just username+passord login?
+### Someone have a TIDAL-API with search by track name function with just username+passord login?
 Or is intrested in writing one in coop?  
 In combination with this script, it would be an amazing for DJs.
