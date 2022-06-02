@@ -7,7 +7,7 @@ Python GUI to easily scrap (electronic) music charts as csv files into your home
 
 **Download here:** https://github.com/DustinScharf/musiccharts/releases/download/v1.0/MusicCharts.exe _(Windows)_  
 
-_*You can also load this repository into an IDE like PyCharm and start it from there (e. g. for Linux)_
+_*Linux & Mac: You can load this repository into your IDE/Editor like PyCharm or VSCode and start it from there_
 
 ### Usage
 
