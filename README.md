@@ -7,7 +7,7 @@
 
 **Download here:** https://github.com/DustinScharf/musiccharts/releases/download/v1.0/MusicCharts.exe _(Windows)_  
 
-_*Linux & Mac: You can load this repository into your IDE/Editor like PyCharm or VSCode and start it from there_
+_*Linux, Mac, etc.: You can load this repository into your IDE/Editor like PyCharm or VSCode and start it from there_
 
 ### Usage
 
