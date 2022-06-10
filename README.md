@@ -13,7 +13,7 @@ _*Linux, Mac, etc.: You can load this repository into your IDE/Editor like PyCha
 
 ![This image shows the GUI of musiccharts](window.png "The GUI of musiccharts")
 
-Press any button and get a chart list (with the genre specified on the button) 
+Press any button and get a chart list (with the genre specified on the button, like Hard Techno) 
 into the directory `HOME/MusicCharts` as a csv file
 
 ### Someone have a TIDAL-API with search by track name function with just username+passord login?
