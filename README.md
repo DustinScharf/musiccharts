@@ -17,5 +17,3 @@ Press any button and get a chart list (with the genre specified on the button, l
 into the directory `HOME/MusicCharts` as a csv file
 
 ### Someone have a TIDAL-API with search by track name function with just username+passord login?
-Or is intrested in writing one in coop?  
-In combination with this script, it would be an amazing for DJs (testing new sets).
