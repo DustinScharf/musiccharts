@@ -14,4 +14,4 @@ _*Linux, Mac, etc.: You can load this repository into your IDE / Editor like PyC
 ![This image shows the GUI of musiccharts, it contains a button to scrap the top 100 list of different genres](window.png "The GUI of musiccharts")
 
 Press any button and get a chart list (with the genre specified on the button, like Hard Techno) 
-into the directory `HOME/MusicCharts` as a csv file
+into the directory `HOME/MusicCharts` as a csv file.
