@@ -1,5 +1,5 @@
 # musiccharts
-(Python) GUI to easily scrap music charts as csv files into your home directory / folder (csv files, no audio files!).
+(Python) GUI to easily scrap music charts as csv files into your home directory / folder (csv files, not audio files!).
 
 ### Installation
 1. Download [**MusicCharts**.exe](https://github.com/DustinScharf/musiccharts/releases/download/v1.0/MusicCharts.exe "Click here to download MusicCharts") _(Windows / .exe)_  
