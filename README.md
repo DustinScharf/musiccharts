@@ -5,7 +5,7 @@
 1. Download [**MusicCharts**.exe](https://github.com/DustinScharf/musiccharts/releases/download/v1.0/MusicCharts.exe "Click here to download MusicCharts") _(Windows / .exe)_  
 2. Run **MusicCharts**.exe  
 
-**Alt Download:** https://github.com/DustinScharf/musiccharts/releases/download/v1.0/MusicCharts.exe _(Windows / .exe)_  
+**Download via link:** https://github.com/DustinScharf/musiccharts/releases/download/v1.0/MusicCharts.exe _(Windows / .exe)_  
 
 _*Linux, Mac, etc.: You can load this repository into your IDE / Editor like PyCharm or VSCode and start it directly from there._
 
